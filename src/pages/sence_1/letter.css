@@ -1,0 +1,29 @@
+.contanier-letter {
+    width: 100%;
+    height: 100vh;
+    /* dùng vh để đảm bảo tràn toàn màn hình */
+    background-image: url("../../images/background/backgroundletter.png");
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    position: relative;
+}
+
+.slig {
+    position: absolute;
+    top: 39%;
+    left: 12%;
+}
+
+.slig-img {
+    height: 90px;
+
+}
+.butterfly-s{
+   position: absolute;
+   left:0;
+   bottom:0;
+}
+.butterfly-s-img{
+      height: 40px;
+}

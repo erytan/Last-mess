@@ -1,0 +1,12 @@
+:root {
+    --default-color-1: #FFFDF7;
+    --default-color-2: #F2E3BC;
+    --default-color-3: #D4AF37;
+}
+html, body {
+  margin: 0;
+  padding: 0;
+  height: 100%;
+}
+h2, p{ margin:0
+}

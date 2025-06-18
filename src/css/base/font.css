@@ -1,0 +1,21 @@
+@font-face{
+    font-family:DacingB ;
+    src:url('../../fonts/static/DancingScript-Bold.ttf')
+}
+@font-face{
+    font-family:DacingM ;
+    src:url('../../fonts/static/DancingScript-Medium.ttf')
+}
+@font-face{
+    font-family:DacingR ;
+    src:url('../../fonts/static/DancingScript-Regular.ttf')
+}
+@font-face{
+    font-family:DacingSB ;
+    src:url('../../fonts/static/DancingScript-SemiBold.ttf')
+}
+@font-face{
+    font-family:DacingVr ;
+    src:url('../../fonts/static/DancingScript-VariableFont_wght.ttf')
+}
+
